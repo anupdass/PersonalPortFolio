@@ -1,0 +1,11 @@
+
+.bgcolor{
+    background-color: black;
+    /* position: fixed; */
+    height: 100vh;
+}
+
+.style a:hover{
+    transform: translate(5px);
+    color: aqua;
+}

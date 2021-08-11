@@ -1,0 +1,12 @@
+.hover img:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+
+}
+.hover{
+    overflow: hidden;
+}
+.hover img{
+    transition: 1s;
+    overflow: hidden;
+}
